@@ -12,6 +12,22 @@
  * @author Michael Kölling and David J. Barnes
  * @version 2016.02.29
  */
+
+
+/*
+ * Extra questions
+ * 
+ * 30) Rectangle window = new Rectangle();
+ * 
+ * 33) p1.print("file1.txt" true);
+ *     int status = 0;
+ *     status = p1.getStatus(3);
+ *     
+ */
+
+
+
+
 public class ClockDisplay
 {
     private NumberDisplay hours;
